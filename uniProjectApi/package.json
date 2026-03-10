@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "jsonrepair": "^3.13.2",
     "openai": "^6.15.0"
   }
 }
